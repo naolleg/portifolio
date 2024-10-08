@@ -1,0 +1,35 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "typescript",
+      "amount": "95"
+    },
+    {
+      "id": 1,
+      "skillName": "node",
+      "amount": "90"
+    },
+    {
+      "id": 2,
+      "skillName": "express",
+      "amount": "90"
+    },
+    { "id": 3, "skillName": "Javascript", "amount": "85" },
+    {
+      "id": 4,
+      "skillName": "prisma",
+      "amount": "90"
+    },
+    {
+      "id": 5,
+      "skillName": "REST",
+      "amount": "95"
+    },
+    {
+      "id": 8,
+      "skillName": "mysql",
+      "amount": "85"
+    }
+  ]
+}

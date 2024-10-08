@@ -1,0 +1,49 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://github.com/naolleg/Ekub_prisma_typescript",
+      "company": "EKUB",
+      "title": "Ekub collecting and pay monitoring app",
+      "dateFrom": "June 2023",
+      "dateTo": "July 2024",
+      "info": [
+        "a fully functioning api for a mobile app"
+      ],
+      "stack": ["node", "typescript", "express", "mysql"],
+      "logoheight": 80,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+      "link": "https://github.com/naolleg/PRODIGY_FS_2",
+      "company": "PRODIGYinfotech",
+      "title": "Employee Management System",
+      "dateFrom": "August 2024",
+      "dateTo": "oct 2024",
+      "info": [
+        "A full stack Employee managment system"
+      ],
+      "stack": ["node", "typescript", "react", "tailwindcss"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+      "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/naolleg/cbtp-project-backend",
+      "company": "JIMMAuniversity",
+      "title": "Infant Immunization System",
+      "dateFrom": "2023",
+      "dateTo": "2023",
+      "info": [
+        "CBTP a commmunity based training program project given to solve an infant immunization monitoring system for a small clinic in jimma city i did backend for it"
+      ],
+      "stack": ["node", "typescript", "express", "mysql"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+      "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
+    }
+  ]
+}
