@@ -3,7 +3,7 @@ const http = require('http')
 const app = express()
 app.use(express.static('build'))
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3001
 
 const server = http.createServer(app)
 
