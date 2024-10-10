@@ -49,7 +49,7 @@ logical person. i love learning new skills
                     'learning new technologies',
                     'exercising',
                     'solving complex problems',
-                    'skiing',
+                    'swimmng',
                     'fixing hard-to-fix bugs',
                     'trying new things',
                     'collaborating with others',
